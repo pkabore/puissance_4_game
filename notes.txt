@@ -1,0 +1,11 @@
+		Puissance 4
+		-- affichage
+		-- alternation des tours de jeux
+		-- rafraichissement de l'affichage
+		-- finir le jeu si la grille est pleine
+		-- afficher le joueur gagnant à la fin de la partie
+		-- remplir les colonnes
+
+		Data structures
+				. typedef Color enum { Empty, Red, White }
+				. array <array <Color, 7>, 6> grid		
